@@ -1,12 +1,13 @@
 ## Hey I'm Lélio Cossa
-
 I do design & development with some years of experience.
-<div align="left">
+<br>
+<div align="center">
   <a href="https://github.com/leliocossa">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leliocossa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leliocossa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leliocossa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leliocossa&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-
+  
 ## Follow Me
 
 🔗 Website: https://leliocossa.me/<br/>
