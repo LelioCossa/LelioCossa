@@ -1,5 +1,10 @@
 ## Hey I'm Lélio Cossa
-I do design & development with some years of experience.
+I'm a Product Designer & Software Developer who believes that great Design should be purposeful, functional, relevant to it's original intention.
+
+With a multimedia background from the Institute of Communication and Image of Mozambique, I currently work at Reboot as Senior Product Design and Development Consulting and freelancing as Product Design, Branding, Solution Developer to Enhancing work routines and I am looking to go more deep as Brand Strategist, Visual Communication, Product Design & Lecturer to help and solve problem better.
+
+If you have any questions, please send me a message.
+
 <br>
 <div align="left">
   <a href="https://github.com/leliocossa">
