@@ -1,7 +1,9 @@
 ## Hey I'm Lélio Cossa
-I'm a Product Designer & Software Developer who believes that great Design should be purposeful, functional, relevant to it's original intention.
+I'm an Independent Interactive Designer with year of experience in building web and mobile experiences and appealing art direction.
 
-With a multimedia background from the Institute of Communication and Image of Mozambique, I currently work at Reboot as Senior Product Design and Development Consulting and freelancing as Product Design, Branding, Solution Developer to Enhancing work routines and I am looking to go more deep as Brand Strategist, Visual Communication, Product Design & Lecturer to help and solve problem better.
+I specialize in Multimedia with a strong focus on interaction. I also love the visual language of UI but as Product design, my purpose is not only to render good visual or good-looking products but to create intuitive and human centered design solutions that will facilitate people's experiences and lives.
+
+With a background in Full Stack Software Developing, I'm able to combine design and coding in my daily work which allow me to be focused on solving digital problemas by translating research and feedback into accessible visual design.
 
 If you have any questions, please send me a message.
 
