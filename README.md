@@ -1,4 +1,4 @@
-## Hey I'm Lélio Cossa
+## 👋 Hey I'm Lélio Cossa
 Product Designer and Full Stack Developer with 5+ years of experience in the digital industry. Proven ability to deliver innovative and user-centric design solutions that drive business growth.
 
 — Expertise in UX/UI design, web and mobile development, and software engineering.<br/>
