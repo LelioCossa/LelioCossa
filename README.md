@@ -1,10 +1,10 @@
 ## Hey I'm Lélio Cossa
 Product Designer and Full Stack Developer with 5+ years of experience in the digital industry. Proven ability to deliver innovative and user-centric design solutions that drive business growth.
 
-*Expertise in UX/UI design, web and mobile development, and software engineering.
-*Track record of success in increasing user engagement, improving conversion rates, and reducing customer support costs.
-*Skills in project management, stakeholder communication, and risk management.
-*Passionate about creating products that make people's lives easier and more enjoyable.
+— Expertise in UX/UI design, web and mobile development, and software engineering.<br/>
+— Track record of success in increasing user engagement, improving conversion rates, and reducing customer support costs.<br/>
+— Skills in project management, stakeholder communication, and risk management.<br/>
+— Passionate about creating products that make people's lives easier and more enjoyable.
 
 With a passion for creating user-centric products. I have a proven track record of delivering innovative and high-quality products that meet the needs of users and businesses.
 
