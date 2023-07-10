@@ -1,11 +1,14 @@
 ## Hey I'm Lélio Cossa
-I'm an Independent Interactive Designer with year of experience in building web and mobile experiences and appealing art direction.
+Product Designer and Full Stack Developer with 5+ years of experience in the digital industry. Proven ability to deliver innovative and user-centric design solutions that drive business growth.
 
-I specialize in Multimedia with a strong focus on interaction. I also love the visual language of UI but as Product design, my purpose is not only to render good visual or good-looking products but to create intuitive and human centered design solutions that will facilitate people's experiences and lives.
+— Expertise in UX/UI design, web and mobile development, and software engineering.
+— Track record of success in increasing user engagement, improving conversion rates, and reducing customer support costs.
+— Skills in project management, stakeholder communication, and risk management.
+— Passionate about creating products that make people's lives easier and more enjoyable.
 
-With a background in Full Stack Software Developing, I'm able to combine design and coding in my daily work which allow me to be focused on solving digital problemas by translating research and feedback into accessible visual design.
+With a passion for creating user-centric products. I have a proven track record of delivering innovative and high-quality products that meet the needs of users and businesses.
 
-If you have any questions, please send me a message.
+I am a highly skilled and experienced product designer and developer with a strong focus on user experience. I am always looking for new ways to improve the user experience of web and mobile applications. I am also an experienced project manager and have a proven track record of delivering high-quality products on time and within budget.
 
 <br>
 <div align="left">
@@ -18,7 +21,6 @@ If you have any questions, please send me a message.
 ## Follow Me
 
 🔗 Website: https://leliocossa.me/<br/>
-🐦 Twitter: https://twitter.com/leliocossa<br/>
 👨‍💼 LinkedIn: https://linkedin.com/in/leliocossa<br/>
 ✉️ Email: tsala@leliocossa.me
 
